@@ -7,7 +7,7 @@ public class ContactspageTest {
 	
 	@Test
 	public void contactsPageTest() {
-		System.out.println("contacts page test method");
+		System.out.println("contacts page test method this is");
 	}
 
 }
